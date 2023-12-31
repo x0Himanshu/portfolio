@@ -42,12 +42,8 @@ body{
     position: absolute;
     left: 10px;
     top: 10px;
-    border-radius: 20%;
 }
 
-.cpp img{
-    border-radius: 20%;
-}
 
 .logo{
     display: flex;
